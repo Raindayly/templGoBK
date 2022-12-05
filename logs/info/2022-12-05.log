@@ -1,0 +1,157 @@
+2022-12-05 17:11:26	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 17:11:26	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 17:11:26	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 17:11:26	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 17:11:27	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 17:11:27	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 17:26:37	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:26:45	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:26:49	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:27:27	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:30:11	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:31:14	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:31:38	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:32:09	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 17:33:24	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 无法解密, 私钥可能不正确, crypto/rsa: decryption error
+2022-12-05 17:33:46	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 无法解密, 私钥可能不正确, crypto/rsa: decryption error
+2022-12-05 17:46:08	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 17:46:08	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 17:46:10	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 17:46:10	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 17:46:10	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 17:46:10	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 17:46:11	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 17:46:11	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 17:48:01	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 18:15:55	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 18:15:55	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 18:15:55	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 18:15:55	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 18:15:56	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 18:15:56	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 18:18:21	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 18:18:41	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 18:18:41	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 18:18:44	DEBUG	middleware/AuthMiddleware.go:110	go-web-mini/middleware.unauthorized	JWT认证失败, 错误码: 401, 错误信息: 密码错误
+2022-12-05 18:19:27	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 18:19:27	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 18:19:27	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 18:19:27	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 18:19:29	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 18:19:29	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 18:19:29	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 18:19:29	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 18:19:29	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 18:19:29	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 19:58:31	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 19:58:31	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 19:58:31	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 19:58:31	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 19:58:31	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 19:58:31	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:06:15	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:06:15	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:06:18	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:06:18	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:06:18	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:06:18	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:06:18	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:06:18	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:10:37	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:10:37	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:10:39	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:10:39	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:10:39	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:10:39	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:10:39	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:10:39	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:14:35	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:14:35	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:14:35	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:14:35	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:14:36	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:14:36	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:21:57	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:21:57	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:21:59	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:21:59	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:21:59	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:21:59	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:21:59	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:21:59	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:26:35	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:26:35	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:26:37	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:26:37	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:26:37	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:26:37	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:26:38	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:26:38	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:30:40	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:30:40	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:30:43	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:30:43	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:30:43	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:30:43	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:30:43	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:30:43	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:32:36	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:32:36	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:32:36	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:32:36	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:32:37	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:32:37	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:34:59	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:34:59	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:34:59	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:34:59	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:34:59	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:34:59	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:35:47	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:35:47	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:35:49	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:35:49	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:35:49	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:35:49	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:35:50	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:35:50	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:39:09	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:39:09	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:39:09	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:39:09	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:39:09	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:39:09	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:39:54	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:39:54	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:39:55	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:39:55	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:39:55	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:39:55	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:39:55	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:39:55	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:44:22	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:44:22	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:44:23	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:44:23	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:44:23	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:44:23	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:44:23	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:44:23	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:47:27	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:47:27	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:47:29	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:47:29	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:47:29	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:47:29	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:47:29	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:47:29	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 20:48:40	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 20:48:40	INFO	go-web-mini/main.go:84	main.main	Server exiting!
+2022-12-05 20:48:41	INFO	common/logger.go:108	go-web-mini/common.InitLogger	初始化zap日志完成!
+2022-12-05 20:48:41	INFO	common/database.go:59	go-web-mini/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/go_ldap_admin?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-05 20:48:41	INFO	common/casbin.go:22	go-web-mini/common.InitCasbinEnforcer	初始化Casbin完成!
+2022-12-05 20:48:41	INFO	common/validator.go:26	go-web-mini/common.InitValidate	初始化validator.v10数据校验器完成
+2022-12-05 20:48:42	INFO	routes/routes.go:54	go-web-mini/routes.InitRoutes	初始化路由完成！
+2022-12-05 20:48:42	INFO	go-web-mini/main.go:64	main.main	Server is running at localhost:8088/api
+2022-12-05 21:05:10	INFO	go-web-mini/main.go:74	main.main	Shutting down server...
+2022-12-05 21:05:10	INFO	go-web-mini/main.go:84	main.main	Server exiting!
